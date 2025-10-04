@@ -25,7 +25,7 @@ Gitea Engineered by OCTOPODAMI® (GEBO) uses the following technologies:
 
 ## Links
 
-1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-*******)
+1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-icx22qpp2vkv2)
 2. [EULA](octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/cloudeyalimited/gitea-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/cloudeyalimited/gitea-engineered-by-octopodami/-/issues)
