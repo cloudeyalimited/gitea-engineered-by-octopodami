@@ -1,6 +1,6 @@
 # Gitea Engineered by OCTOPODAMI® (GEBO)
 
-With Gitea Engineered by OCTOPODAMI® (GEBO), you can launch a Gitea stack pre-configured for auto-scaling, maintainability, performance, and security.
+With [Gitea](https://about.gitea.com/) Engineered by OCTOPODAMI® (GEBO), you can launch a Gitea stack pre-configured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
